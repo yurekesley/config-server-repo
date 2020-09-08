@@ -5,7 +5,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 api:
-  key: 1f54bd990f1cdfb230adb312546d765dserver:
+  key: 1f54bd990f1cdfb230adb312546d765dserver
   port: 8081
 eureka:
   client:
